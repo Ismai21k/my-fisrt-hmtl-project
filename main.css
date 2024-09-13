@@ -1,0 +1,20 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    background-color: black;
+    color: hsl(0, 25%, 94%); /* Adjusted the hue value */
+}
+
+a {
+    color: brown;
+}
+
+a:visited {
+    color: rgb(172, 144, 250);
+}
+
+a:hover, a:active {
+    color: lightblue;
+}
